@@ -1,0 +1,17 @@
+/* #display-data {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+} */
+
+/* #display-data {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+} */
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
