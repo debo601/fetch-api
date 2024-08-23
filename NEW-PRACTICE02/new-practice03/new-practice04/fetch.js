@@ -101,7 +101,7 @@ const getData = async (url) => {
 
 const displayUsers = async () => {
     if (isLoading) return;
-    isLoading = true;+
+    isLoading = true;
 
     const payload = await getData(currentURL);
 
